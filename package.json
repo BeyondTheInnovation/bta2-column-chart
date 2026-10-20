@@ -15,12 +15,12 @@
   },
   "dependencies": {
     "echarts": "^6.1.0",
-    "powerbi-visuals-utils-formattingmodel": "^6.2.2"
+    "powerbi-visuals-utils-formattingmodel": "^7.1.0"
   },
   "devDependencies": {
     "powerbi-visuals-api": "~5.11.0",
     "powerbi-visuals-tools": "^7.1.0",
-    "typescript": "^6.0.2",
+    "typescript": "^7.0.2",
     "eslint": "^10.2.0",
     "eslint-plugin-powerbi-visuals": "^1.1.1"
   }
