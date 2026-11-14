@@ -22,7 +22,7 @@
     "eslint-plugin-powerbi-visuals": "^1.1.1",
     "powerbi-visuals-api": "~5.11.1",
     "powerbi-visuals-tools": "^7.2.1",
-    "typescript": "^6.0.3"
+    "typescript": "^7.0.2"
   },
   "overrides": {
     "sockjs": {
