@@ -8,8 +8,12 @@ updates:
     cooldown:
       default-days: 3
     # Node's types follow the Node line the image runs, which moves by hand.
+    # pbiviz needs the TypeScript 6 compiler API and typescript-eslint rejects 7.
     ignore:
       - dependency-name: "@types/node"
+        update-types:
+          - version-update:semver-major
+      - dependency-name: typescript
         update-types:
           - version-update:semver-major
     groups:
