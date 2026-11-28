@@ -20,7 +20,7 @@
   "devDependencies": {
     "eslint": "^10.14.0",
     "eslint-plugin-powerbi-visuals": "^1.1.1",
-    "powerbi-visuals-api": "~5.11.1",
+    "powerbi-visuals-api": "~5.11.2",
     "powerbi-visuals-tools": "^7.2.1",
     "typescript": "^6.0.3"
   },
